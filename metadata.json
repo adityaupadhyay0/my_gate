@@ -1,0 +1,8 @@
+{
+  "name": "Remix: GATE CSE Syllabus Tracker",
+  "description": "A comprehensive syllabus checklist and to-do application for GATE CSE aspirants to track topics, manage progress, record review notes, and organize custom preparation tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
